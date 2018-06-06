@@ -1,1 +1,1 @@
-# pivx-detached-sigs
+# supro-detached-sigs
